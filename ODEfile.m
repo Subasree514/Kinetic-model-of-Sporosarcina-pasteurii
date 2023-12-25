@@ -4,9 +4,6 @@ x_n=zeros(6,6);
 %% parameters=[k_m,v_max,ks,Umax,Y_XS,km,vmax];%%%
 %% parameters=[0.041mmol/l 0.288mmol/gdw/d 0.716g/l 0.78/d 4.68gDW/g 305mmol/l 4800mmol/l/d];%% actual parameter values
 
-%% parameters and scaling factors
-%sf=[0.05 0.4 0.95 0.95 7.67 610 6000];%Default scaling factors
-%parameters=[0.82,0.72,0.75,0.82,0.61,0.5,0.8];%scaled parameters
 %% parameters:
 %% Kinetic Parameters from the literature to be estimated
 k_m=parameters(1); %Michaelis Menten constant ammonium assimilation[mmol/l] 
