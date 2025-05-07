@@ -8,3 +8,6 @@
 
 ### File to execute data-fitting and plotting
 'lsqRUNfile.m' must be executed for fitting the experimental vs. simulated values using nonlinear data-fitting
+
+### Box plots to differentiate flux sampling results of the genome-scale metabolic models of S.pasteurii under aerobic, anaerobic and hydrogen peroxide supply
+spsampling-upload.ipynb 
